@@ -1,0 +1,10 @@
+2024-08-28 16:50:53,740 - INFO - Starting the training process
+2024-08-28 16:50:53,741 - INFO - Starting model training process
+2024-08-28 16:51:05,511 - ERROR - Error during model training: Could not import PIL.Image. The use of `load_img` requires PIL.
+2024-08-28 16:51:05,511 - ERROR - An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+2024-08-28 16:53:53,943 - INFO - Starting the training process
+2024-08-28 16:53:53,943 - INFO - Starting model training process
+2024-08-28 16:53:55,627 - INFO - Model compiled successfully
+2024-08-28 17:30:03,433 - INFO - Starting the training process
+2024-08-28 17:30:03,433 - INFO - Starting model training process
+2024-08-28 17:30:05,313 - INFO - Model compiled successfully
